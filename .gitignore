@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/MQDemo/NetCoreDemo/obj
+/MQDemo/NetCoreNullDemo/obj
+/MQDemo/Receive/obj
+/MQDemo/RedisDemo/obj
+/MQDemo/Send/obj
